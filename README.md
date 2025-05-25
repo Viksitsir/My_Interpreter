@@ -1,2 +1,2 @@
 # My_Interpreter
-A bsics interpretor built in python
+A basics interpretor built in python
